@@ -1,6 +1,6 @@
-# AlephX
+# Alephex
 
-AlephX is a decentralized token swap application built on the Alephium blockchain. It enables users to exchange various tokens seamlessly while ensuring security and transparency. The application leverages the unique capabilities of Alephium's blockchain to provide a user-friendly interface for token exchanges.
+Alephex is a decentralized token swap application built on the Alephium blockchain. It enables users to exchange various tokens seamlessly while ensuring security and transparency. The application leverages the unique capabilities of Alephium's blockchain to provide a user-friendly interface for token exchanges.
 
 ![image](https://github.com/user-attachments/assets/95c11d32-b949-4728-bba2-a7c5412a47a9)
 
@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 2. Navigate to the project directory:
 
    ```bash
-   cd AlephX
+   cd Alephex
    ```
 
 3. Install the required dependencies:
