@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-12 gap-y-12 gap-x-8 xl:gap-x-12">
           <div className="col-span-2 md:col-span-4 xl:pr-8">
-            <img className="w-auto h-9" src="/Alephex/public/logo.svg" alt="logo" />
+            <img className="w-auto h-9" src="/logo.svg" alt="logo" />
 
             <p className="text-base leading-relaxed text-gray-400 mt-7">
               AlephEx brings token swapping to a new level - fast, secure, and
