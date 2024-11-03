@@ -1,36 +1,89 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AlephX
+
+AlephX is a decentralized token swap application built on the Alephium blockchain. It enables users to exchange various tokens seamlessly while ensuring security and transparency. The application leverages the unique capabilities of Alephium's blockchain to provide a user-friendly interface for token exchanges.
+
 
 ## Getting Started
 
-First, run the development server:
+### Prerequisites
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Before you begin, ensure you have met the following requirements:
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- Node.js installed on your machine.
+- A code editor such as Visual Studio Code.
+- A wallet compatible with Alephium (e.g., Alephium Wallet).
+- Alephium Devnet to interact with the contracts 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Installation
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. Clone the repository:
 
-## Learn More
+   ```bash
+   git clone https://github.com/yourusername/AlephX.git
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. Navigate to the project directory:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   ```bash
+   cd AlephX
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. Install the required dependencies:
 
-## Deploy on Vercel
+   ```bash
+   npm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+4. Start the development server:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and go to `http://localhost:3000` to view the application.
+
+## Usage
+
+1. Connect your Alephium wallet.
+2. Select the tokens you wish to swap.
+3. Enter the amount you want to exchange.
+4. Review the transaction details and confirm the swap.
+5. Your tokens will be exchanged directly in your wallet.
+
+## Contributing
+
+Contributions are welcome! If you want to contribute to AlephX, please follow these steps:
+
+1. Fork the repository.
+2. Create a feature branch:
+
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+
+3. Commit your changes:
+
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+
+4. Push to the branch:
+
+   ```bash
+   git push origin feature/YourFeature
+   ```
+
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- [Alephium](https://alephium.org) for providing the blockchain infrastructure.
+- All contributors are responsible for their valuable input and improvements.
+
+## Contact
+
+For inquiries or feedback, please reach out to nipuforwork3@gmail.com 
