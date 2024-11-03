@@ -55,7 +55,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Contributing
 
-Contributions are welcome! If you want to contribute to AlephX, please follow these steps:
+Contributions are welcome! If you want to contribute to Alephex, please follow these steps:
 
 1. Fork the repository.
 2. Create a feature branch:
