@@ -6,6 +6,8 @@ AlephX is a decentralized token swap application built on the Alephium blockchai
 
 ## Getting Started
 
+Start a local devnet for testing and development. Please refer to the [Getting Started documentation](https://docs.alephium.org/full-node/getting-started#devnet).
+
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
