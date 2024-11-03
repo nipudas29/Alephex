@@ -22,7 +22,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AlephX.git
+   git clone https://github.com/nipudas29/AlephX.git
    ```
 
 2. Navigate to the project directory:
